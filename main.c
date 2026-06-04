@@ -8,10 +8,11 @@ void checkbalance(int balance)
 {
     printf("You'r Balance is = $%d\n", balance);
 }
-int main() {
+int main()
+{
     int balance = 1000;
     int choice;
-    
+
     printf("\n");
     printf("|=====================|\n");
     printf("|        MENU         |\n");
@@ -24,6 +25,6 @@ int main() {
 
     printf("Enter your choice = ");
     scanf("%d", &choice);
-    
+
     return 0;
 }

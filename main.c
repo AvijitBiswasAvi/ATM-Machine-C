@@ -53,7 +53,7 @@ int main()
     int choice;
     int atm_pin = 12345;
     int user_pin;
-
+    
     printf("Enter your pin = ");
     scanf("%d", &user_pin);
 

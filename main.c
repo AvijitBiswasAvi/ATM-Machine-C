@@ -47,6 +47,7 @@ int withdraw(int balance)
     {
         printf("Insufficient balance!\n");
         printf("Your current balance = $%d\n", balance);
+        
         return balance;
     }
 

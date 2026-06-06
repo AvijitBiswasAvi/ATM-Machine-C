@@ -48,13 +48,6 @@ This project helped me practice:
 - Input validation
 - Program organization
 
-## Future Improvements
-
-- Multiple PIN attempts
-- Transaction history
-- File handling
-- Multiple accounts
-- Change PIN feature
 
 ## Author
 

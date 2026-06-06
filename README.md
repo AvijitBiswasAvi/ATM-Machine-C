@@ -4,7 +4,7 @@ A menu-driven ATM simulation developed in C. The program allows users to authent
 
 ## Features
 
-- PIN authentication
+- PIN authentication { PIN - 12345}
 - Check account balance
 - Deposit money
 - Withdraw money
